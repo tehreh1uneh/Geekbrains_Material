@@ -8,4 +8,10 @@
     <color name="colorText">#212121</color>
     <color name="colorTextSecondary">#757575</color>
     <color name="colorDivider">#BDBDBD</color>
+
+    <color name="colorError">#F44336</color>
+
+    <color name="colorHint">#FFA000</color>
+    <color name="colorActivatedHighlight">#795548</color>
+    <color name="colorHighlight">#7C4DFF</color>
 </resources>
