@@ -2,4 +2,10 @@
     <string name="app_name">Geekbrains_Material</string>
     <string name="email">email</string>
     <string name="password">password</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
