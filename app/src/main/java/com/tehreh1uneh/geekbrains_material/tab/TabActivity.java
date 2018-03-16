@@ -22,5 +22,6 @@ public class TabActivity extends AppCompatActivity {
         viewPager.setAdapter(adapter);
         tabLayout.setupWithViewPager(viewPager);
 
+        tabLayout.getTabAt(1).setIcon(R.drawable.ic_star);
     }
 }
